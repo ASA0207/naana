@@ -1,6 +1,7 @@
-나 안아.. DREAM MOON V3
-index.html과 assets 폴더를 GitHub Pages 루트에 업로드하세요.
-음악: 아이유 strawberry moon (사용자가 제공한 파일). 시작 하이라이트는 index.html의 HIGHLIGHT_START=65에서 변경 가능합니다.
-자동 재생은 브라우저 정책에 따라 차단될 수 있으며, 입장 버튼이나 재생 버튼 클릭 시 시작됩니다.
-볼륨 조절/저장, ASA/아사 이스터에그 유지. 디스코드 초대 주소는 DISCORD_INVITE_URL에 설정하세요.
-공개 배포 전 음원 사용 권리를 확인하세요.
+나 안아.. STARLIGHT INTRO V4
+
+index.html과 assets 폴더를 GitHub Pages 저장소 루트에 업로드하세요.
+새 시작 화면의 입장 버튼을 누르면 음악이 시작됩니다.
+브라우저 정책상 소리 있는 완전 무클릭 자동재생은 보장할 수 없습니다.
+기존 규칙, 볼륨 조절, ASA/아사 이스터에그는 유지됩니다.
+공개 음원 배포 전 사용 권한을 확인하세요.
